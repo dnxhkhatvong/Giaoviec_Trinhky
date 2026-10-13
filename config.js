@@ -5,4 +5,4 @@
    Để trống "" thì trang chạy thử với dữ liệu mẫu.
    ============================================================= */
 
-window.KV_API_URL = "";
+window.KV_API_URL = "https://script.google.com/macros/s/AKfycbyJDVe_CR9Dri6abPLLxRRdPS4qodEY6YNJkQpJkN_9NK_fa_BSKsw-3EWMo7nBp1gB/exec";
